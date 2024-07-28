@@ -1,0 +1,25 @@
+
+/* Ajout TaskForm.css */
+.task-form {
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  
+  .task-form input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .task-form button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .task-form button:hover {
+    background-color: darkblue;
+  }
+  
